@@ -1,0 +1,45 @@
+
+
+
+#startsida {
+		background-image: url("../bilder/klocka.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;
+}
+
+.navbar-inverse .navbar-brand {
+	font-family: 'Pacifico', cursive;
+	color: #D09683;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	font-family: 'Lobster', cursive;
+	color:#D09683;
+
+}
+
+#sida1  {
+		background-image: url("../bilder/rosa.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;
+}
+
+#text {
+	position: absolute;
+	top: 250px;
+	left: 400px;
+	font-family: 'Dancing Script', cursive;
+}
+
+
+ .navbar-inverse .navbar-nav {
+
+ 
+
+}
+
+
